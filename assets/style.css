@@ -236,7 +236,7 @@ body{
    max-height: 400px;
 }
 #contato div #email,#name{
-   min-width: 200px;
+   min-width: 100px;
    max-width: 400px;
    background-color: rgb(211, 210, 210)
 }
@@ -245,7 +245,7 @@ body{
 }
 #contato div #corpo_email{
    max-width: 400px;
-   min-width: 200px;
+   min-width: 100px;
    min-height: 50px;
    max-height: 200px;
    background-color: rgb(211, 210, 210);
